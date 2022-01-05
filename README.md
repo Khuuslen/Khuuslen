@@ -1,5 +1,2 @@
-Im Khuslen
-<!---
-Khuuslen/Khuuslen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im Khuslen,
+I "can program" html,js(react,node),css(scss)
